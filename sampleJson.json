@@ -1,7 +1,7 @@
 {
   "name" : "Qian AG",
-  "Description" : "A Company from Qian",
-  "asscoaite" : [
+  "departmentescription" : "A Company from Qian",
+  "associate" : [
     {
       "id": "0001",
       "name": "Emma",
