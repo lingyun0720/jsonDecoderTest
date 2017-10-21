@@ -1,0 +1,18 @@
+{
+  "name" : "Qian AG",
+  "Description" : "A Company from Qian",
+  "asscoaite" : [
+    {
+      "id": "0001",
+      "name": "Emma",
+      "department": "Marketing",
+      "title": "Manager"
+    },
+    {
+      "id": "0002",
+      "name": "Celine",
+      "department": "Purchasing",
+      "title": "Assistant"
+    }
+    ]
+}
